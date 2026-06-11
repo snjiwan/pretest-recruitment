@@ -1,0 +1,6 @@
+node_modules/
+.env
+src/uploads/*
+!src/uploads/.gitkeep
+rekap_jp.xlsx
+upload_jadwal.xlsx
